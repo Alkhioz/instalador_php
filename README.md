@@ -1,2 +1,2 @@
 # Instalador php
-Un instalador tipo wordpress para definir el usuario administrador por defecto en un sistema PHP
+Un instalador para definir el usuario administrador por defecto en un sistema PHP
